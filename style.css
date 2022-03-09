@@ -1,0 +1,29 @@
+.heading 
+{
+    width: 100%;
+    text-align: left;
+    font-size: 32px;
+}
+
+.heading h3
+{
+    display: inline;
+    font-size: 28px;
+}
+
+.heading button
+{
+    float: right;
+    border: 2px solid white;
+}
+
+.big-image
+{
+    width: 100%;
+}
+
+#start, #status
+{
+    font-size: 22px;
+    color: cyan;
+}
